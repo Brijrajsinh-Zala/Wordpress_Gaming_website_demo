@@ -1,0 +1,9 @@
+# Exclude core WordPress files
+wp-admin/
+wp-includes/
+wp-config.php
+
+# Exclude WordPress configuration files
+.htaccess
+license.txt
+readme.html
